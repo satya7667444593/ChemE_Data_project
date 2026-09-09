@@ -29,7 +29,7 @@ To dynamically visualize the data anomalies discussed above, I engineered a real
 
 ![Chemical Reactor Simulator](assets/simulator_demo.png)
 
-**[🚀 Launch the Live Interactive Simulator](https://satya7667444593.github.io/ChemE_Data_project/reactor_simulator.html)**
+**[🚀 Launch the Live Interactive Simulator](https://satya7667444593.github.io/ChemE_Project/reactor_simulator.html)**
 
 *The dashboard allows users to adjust coolant flow and feed rates to model thermal runaway conditions and safety interlock triggers.*
 ## 🛠️ Tools & Technologies
