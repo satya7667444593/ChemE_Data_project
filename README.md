@@ -18,6 +18,12 @@ chemE-data-project/
 ├── notebook.ipynb                # Main Jupyter/Colab notebook containing all code and plots
 └── README.md                     # Project documentation
 ```
+## ⚗️ Interactive Chemical Reactor Simulator
+To dynamically visualize the data anomalies discussed above, I engineered a real-time Continuous Stirred-Tank Reactor (CSTR) simulator using **Python and Streamlit**. 
+
+[![Reactor Simulator Demo](assets/simulator_demo.png)](https://chemedataproject-ytmehhn8ujzpviwruvjzyv.streamlit.app/)
+
+*The dashboard allows users to adjust coolant flow and feed rates to model thermal runaway conditions and safety interlock triggers.*
 
 ## 🛠️ Tools & Technologies
 * **Data Manipulation:** Python (Pandas, NumPy)
