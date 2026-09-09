@@ -24,7 +24,14 @@ To dynamically visualize the data anomalies discussed above, I engineered a real
 [![Reactor Simulator Demo](assets/simulator_demo.png)](https://chemedataproject-ytmehhn8ujzpviwruvjzyv.streamlit.app/)
 
 *The dashboard allows users to adjust coolant flow and feed rates to model thermal runaway conditions and safety interlock triggers.*
+## ⚗️ Interactive Chemical Reactor Simulator
+To dynamically visualize the data anomalies discussed above, I engineered a real-time Continuous Stirred-Tank Reactor (CSTR) simulator. 
 
+![Chemical Reactor Simulator](assets/simulator_demo.png)
+
+**[🚀 Launch the Live Interactive Simulator](https://satya7667444593.github.io/ChemE_Data_project/reactor_simulator.html)**
+
+*The dashboard allows users to adjust coolant flow and feed rates to model thermal runaway conditions and safety interlock triggers.*
 ## 🛠️ Tools & Technologies
 * **Data Manipulation:** Python (Pandas, NumPy)
 * **Database & Querying:** SQLite3 (in-memory execution for time-series exploration)
